@@ -1,0 +1,10 @@
+[project]
+name = "quiz-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "literalai>=0.1.300",
+    "openai-agents>=0.2.9",
+]
