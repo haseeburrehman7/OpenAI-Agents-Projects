@@ -47,8 +47,8 @@ All projects are developed by **Haseeb Ur Rehman**.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/haseeburrehman7/OpenAI-Agents-Projects.git
+   cd OpenAI-Agents-Projects
    ```
 2. Install dependencies:
 
@@ -58,7 +58,7 @@ All projects are developed by **Haseeb Ur Rehman**.
 3. Set up environment variables in `.env`:
 
    ```env
-   GOOGLE_API_KEY=your_gemini_api_key
+   GOOGLE_API_KEY=your_api_key
    ```
 4. Run a project:
 
@@ -84,8 +84,8 @@ All projects are developed by **Haseeb Ur Rehman**.
 
 **Haseeb Ur Rehman**
 
-*  AI & Robotics Enthusiast
-*  [LinkedIn](https://linkedin.com) | [haseeburrehman7978@gmail.com](mailto:haseeburrehman7978@gmail.com)
+*  Agentic AI & Robotic Engineer
+*  [LinkedIn](https://www.linkedin.com/in/haseeb-ur-rehman-bb64021b9) | [haseeburrehman7978@gmail.com](mailto:haseeburrehman7978@gmail.com)
 
 ---
 
